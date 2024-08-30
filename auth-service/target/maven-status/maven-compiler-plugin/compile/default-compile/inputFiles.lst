@@ -1,0 +1,12 @@
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\AuthServiceApplication.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\config\ApplicationConfig.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\controller\AuthController.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\dto\AuthenticationRequest.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\dto\AuthenticationResponse.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\entity\Role.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\entity\User.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\jwt\JwtAuthenticationFilter.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\jwt\JwtService.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\repository\AuthRepository.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\SecurityConfig.java
+C:\Users\2143680\eclipseworkspace\auth-service\src\main\java\com\mycompany\authservice\service\AuthService.java

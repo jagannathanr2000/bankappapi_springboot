@@ -1,0 +1,12 @@
+com\mycompany\authservice\jwt\JwtService.class
+com\mycompany\authservice\dto\AuthenticationResponse.class
+com\mycompany\authservice\entity\Role.class
+com\mycompany\authservice\entity\User.class
+com\mycompany\authservice\repository\AuthRepository.class
+com\mycompany\authservice\dto\AuthenticationRequest.class
+com\mycompany\authservice\controller\AuthController.class
+com\mycompany\authservice\SecurityConfig.class
+com\mycompany\authservice\config\ApplicationConfig.class
+com\mycompany\authservice\jwt\JwtAuthenticationFilter.class
+com\mycompany\authservice\AuthServiceApplication.class
+com\mycompany\authservice\service\AuthService.class
